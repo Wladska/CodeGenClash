@@ -14,7 +14,7 @@ After this you will be able to use a 30 day trial period.
 
 ![copilot1](./images/readme/copilot1.png)
 
-[Install Github Copilot Chat in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=vs-2022)
+[Install GitHub Copilot Chat in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=vs-2022)
 
 
 ## Amazon CodeWhisperer
@@ -48,7 +48,7 @@ You are ready to go. [2]
 2. Create an account
 3. Start using the chat
 
-![chatgpt](./images/readme/chatgpt.png
+![chatgpt](./images/readme/chatgpt.png)
 
 ## Meta Code Llama
 https://huggingface.co/spaces/codellama/codellama-13b-chat
@@ -56,5 +56,7 @@ https://www.llama2.ai/
 
 ### Bibliography
 [1] https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-chat?view=vs-2022
+
 [2] https://www.youtube.com/watch?v=rHNMfOK8pWI&ab_channel=AmazonWebServices
+
 [3] https://support.tabnine.com/hc/en-us/articles/4413894134161-Install-Tabnine-on-Visual-Studio-2022
