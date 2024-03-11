@@ -1,5 +1,26 @@
 # CodeGenClash
 
+## Setup the project
+`./gradlew build`
+### SonarQube
+1. Set up SonarQube locally from docker file. Follow the [instructions on the page](https://docs.sonarsource.com/sonarqube/latest/try-out-sonarqube/)
+2. When you boot it up create a local project.
+3. In you will find sonar properties to adjust. Please follow [this tutorial](https://github.com/IBM/sonarqube/blob/master/docs/get-started-with-sonarqube/README.md). I myself had problems with setting up those parameter with commandline thus all are set as properties. Which in case of a token is horribly incorrect but we gotta manage somehow ;).
+```
+sonar {
+    properties {
+        property("sonar.projectKey", "CodeGenClash")
+        property("sonar.projectName", "CodeGenClash")
+        property("sonar.host.url", "http://localhost:9000")
+        property("sonar.token", "sqp_e6bf59e7883e1c88770dc548087caa42a0a96375")
+    }
+}
+```
+4. In order tu run the sonar analysis run `./gradlew sonar` command
+
+### Checkstyle
+Please follow [this tutorial](https://github.com/Wladska/HalsteadMetricsCalc/blob/main/README.md).
+
 ## Github Copilot
 ![copilot](./images/readme/copilot.png)
 
