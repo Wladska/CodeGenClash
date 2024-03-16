@@ -1,7 +1,3 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
-
-![runtime](./images/leetcodesummary/runtime.png)
-
-![memory](./images/leetcodesummary/memory.png)
+https://leetcode.com/problems/palindrome-number/submissions/1205244859
