@@ -1,6 +1,5 @@
 # CodeGenClash
-
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/merge-two-sorted-lists/submissions/1206390241
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
