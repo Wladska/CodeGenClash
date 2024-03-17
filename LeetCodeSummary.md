@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/contains-duplicate/submissions/1206423872
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
