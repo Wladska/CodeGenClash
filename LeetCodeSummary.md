@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/ugly-number/submissions/1208158473
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
