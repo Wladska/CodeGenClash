@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/string-to-integer-atoi/submissions/1208281669
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
