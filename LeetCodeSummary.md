@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/base-7/submissions/1208169273
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
