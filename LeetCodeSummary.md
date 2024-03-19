@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/longest-palindromic-substring/submissions/1208259756
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
