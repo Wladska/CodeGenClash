@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/validate-binary-search-tree/submissions/1209473380
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
