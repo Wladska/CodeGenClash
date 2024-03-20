@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/gas-station/submissions/1209495446
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
