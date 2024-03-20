@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/next-permutation/submissions/1209361786
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
