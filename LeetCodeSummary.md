@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/count-all-possible-routes/submissions/1210386907
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
