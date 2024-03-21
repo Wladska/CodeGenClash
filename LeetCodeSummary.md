@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/ipo/submissions/1210313965
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
