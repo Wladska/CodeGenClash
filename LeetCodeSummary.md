@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/wildcard-matching/submissions/1210344060
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
