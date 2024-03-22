@@ -1,5 +1,9 @@
 package org.wladska;
 
+import java.util.Arrays;
+import java.util.Queue;
+import java.util.LinkedList;
+import java.util.HashSet;
 public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello world");
@@ -28,6 +32,39 @@ public class Main {
 	 * Each value board[i][j] is unique.
 	 */
 	public int slidingPuzzle(int[][] board) {
-		return 0;
+		int[][] dirs = {{1, 3}, {0, 2, 4}, {1, 5}, {0, 4}, {1, 3, 5}, {2, 4}};
+		String target = "123450";
+		Queue<String> queue = new LinkedList<>();
+		HashSet<String> visited = new HashSet<>();
+		String start = Arrays.toString(board[0]) + Arrays.toString(board[1]);
+		queue.offer(start);
+		visited.add(start);
+		int step = 0;
+		while (!queue.isEmpty()) {
+			int size = queue.size();
+			for (int i = 0; i < size; i++) {
+				String cur = queue.poll();
+				if (cur.equals(target)) {
+					return step;
+				}
+				int zero = cur.indexOf('0');
+				for (int dir : dirs[zero]) {
+					String next = swap(cur, zero, dir);
+					if (visited.add(next)) {
+						queue.offer(next);
+					}
+				}
+			}
+			step++;
+		}
+		return -1;
 	}
+	private String swap(String s, int i, int j) {
+		char[] arr = s.toCharArray();
+		char temp = arr[i];
+		arr[i] = arr[j];
+		arr[j] = temp;
+		return new String(arr);
+	}
+
 }
