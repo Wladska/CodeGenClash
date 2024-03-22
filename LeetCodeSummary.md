@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/count-vowels-permutation/submissions/1210860482
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
