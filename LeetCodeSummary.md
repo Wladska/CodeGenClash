@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/jump-game-v/submissions/1210843923
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
