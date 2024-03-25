@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/sliding-puzzle/submissions/1213729270
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
