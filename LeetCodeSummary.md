@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/put-marbles-in-bags/submissions/1213712074
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
