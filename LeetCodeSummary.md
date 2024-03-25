@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/longest-common-prefix/submissions/1213572051
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
