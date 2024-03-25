@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/integer-to-roman/submissions/1213632260
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
