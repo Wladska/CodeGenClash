@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/palindrome-number/submissions/1213565205
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
