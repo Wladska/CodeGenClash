@@ -1,6 +1,6 @@
 # CodeGenClash
 
-[ **place link to leet code after submit summary** ]
+https://leetcode.com/problems/task-scheduler/submissions/1213602171?envType=daily-question&envId=2024-03-19
 
 ![runtime](./images/leetcodesummary/runtime.png)
 
